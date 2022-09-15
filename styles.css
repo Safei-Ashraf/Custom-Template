@@ -10,7 +10,6 @@
 div,
 a,
 section,
-main,
 header,
 footer,
 nav,
@@ -23,15 +22,18 @@ body {
 	vertical-align: baseline;
 	text-decoration: none;
 	color: #fff;
+	font-family: "Roboto", sans-serif;
 }
 :focus {
 	outline: 0;
 }
+
 body {
 	line-height: 1;
 	color: var(--textColor);
 	background-color: var(--mainbg);
-	max-width: 1600px;
+	padding-top: 200px;
+	font-family: "Roboto", sans-serif;
 }
 video {
 	display: inline-block;
@@ -69,6 +71,7 @@ button {
 * {
 	text-align: center;
 }
+
 /*custom-styles*/
 /*Header Section*/
 header {
@@ -132,7 +135,6 @@ nav .nav-container {
 	-ms-border-radius: 12px;
 	-o-border-radius: 12px;
 	background-color: rgba(0, 0, 0, 0.592);
-	box-shadow: 5px 5px 5px rgb(66, 60, 60);
 }
 .github-button:hover {
 	background-color: var(--theme-secondary);
@@ -150,4 +152,22 @@ nav .nav-container {
 	.github-button {
 		margin-top: 1rem;
 	}
+}
+
+/*Main Section*/
+main {
+	width: 85%;
+	margin: auto auto;
+	padding: 24px;
+}
+main section,
+main .video-container {
+	width: 100%;
+}
+.video-container {
+	margin-top: 2rem;
+}
+iframe {
+	width: 75%;
+	height: 60vh;
 }
