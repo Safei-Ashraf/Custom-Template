@@ -83,7 +83,7 @@ nav {
 	position: fixed;
 	top: 0;
 	width: 100%;
-	padding: 1rem 0px;
+	padding: 0px;
 }
 nav .nav-container {
 	display: flex;
