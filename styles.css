@@ -119,6 +119,28 @@ nav .nav-container {
 	-o-border-radius: 999px;
 	border: 3px solid transparent;
 }
+/*button*/
+.github-button {
+	width: 200px;
+	font-size: 2rem;
+	padding: 1rem;
+	border-radius: 12px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	-ms-border-radius: 12px;
+	-o-border-radius: 12px;
+	background-color: rgba(0, 0, 0, 0.592);
+	box-shadow: 5px 5px 5px rgb(66, 60, 60);
+}
+.github-button:hover {
+	background-color: #16e998;
+}
+.github-button:hover .icon-github {
+	color: #16e998;
+	border: #16e998 3px solid;
+	background-color: #16e998;
+}
+
 @media only screen and (max-width: 768px) {
 	nav .nav-container {
 		flex-direction: column;
