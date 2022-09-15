@@ -169,8 +169,15 @@ main .video-container {
 	height: 4000px;
 }
 iframe {
-	width: 80%;
+	width: 85%;
 	height: 60vh;
+	overflow: hidden;
+	border: 0px;
+}
+/*fix white space around the iframe => youtube custom fix*/
+.ytp-cued-thumbnail-overlay-image {
+	width: 101%;
+	height: 101%;
 }
 
 /*footer*/
