@@ -166,8 +166,28 @@ main .video-container {
 }
 .video-container {
 	margin-top: 2rem;
+	height: 4000px;
 }
 iframe {
 	width: 75%;
 	height: 60vh;
+}
+
+/*footer*/
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: var(--internalbg);
+	color: white;
+	text-align: center;
+	padding: 0.5rem 0px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+footer svg {
+	height: 24px;
+	width: 24px;
 }
