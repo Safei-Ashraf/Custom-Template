@@ -180,9 +180,10 @@ iframe {
 	-o-border-radius: 8px;
 }
 /*fix white space around the iframe => youtube custom fix*/
+.ytp-cued-thumbnail-overlay-image,
 .ytp-cued-thumbnail-overlay-image {
-	width: 101%;
-	height: 101%;
+	width: 101% !important;
+	height: 101% !important;
 }
 
 /*footer*/
