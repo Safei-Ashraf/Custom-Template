@@ -181,7 +181,7 @@ iframe {
 }
 
 /*footer*/
-footer {
+.footer {
 	position: fixed;
 	left: 0;
 	bottom: 0;
@@ -194,7 +194,7 @@ footer {
 	align-items: center;
 	justify-content: center;
 }
-footer svg {
+.footer svg {
 	height: 24px;
 	width: 24px;
 }
