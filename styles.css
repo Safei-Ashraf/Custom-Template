@@ -166,11 +166,12 @@ main .video-container {
 }
 .video-container {
 	margin-top: 2rem;
-	height: 4000px;
+	height: fit-content;
+	padding-bottom: 0;
 }
 iframe {
 	width: 85%;
-	height: 60vh;
+	height: 70vh;
 	overflow: hidden;
 	border: 0px;
 	border-radius: 8px;
@@ -178,13 +179,7 @@ iframe {
 	-moz-border-radius: 8px;
 	-ms-border-radius: 8px;
 	-o-border-radius: 8px;
-}
-/*fix white space around the iframe => youtube custom fix*/
-.ytp-cued-thumbnail-overlay-image,
-.ytp-cued-thumbnail-overlay-image {
-	width: 101% !important;
-	height: 101% !important;
-	background-size: initial !important;
+	position: relative;
 }
 
 /*footer*/
@@ -200,7 +195,6 @@ iframe {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	border: 2px solid red;
 }
 .footer svg {
 	height: 24px;
