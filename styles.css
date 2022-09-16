@@ -184,6 +184,7 @@ iframe {
 .ytp-cued-thumbnail-overlay-image {
 	width: 101% !important;
 	height: 101% !important;
+	background-size: initial !important;
 }
 
 /*footer*/
