@@ -170,8 +170,8 @@ main .video-container {
 	padding-bottom: 0;
 }
 iframe {
-	width: 85%;
-	height: 70vh;
+	width: 80%;
+	height: 65vh;
 	overflow: hidden;
 	border: 0px;
 	border-radius: 8px;
