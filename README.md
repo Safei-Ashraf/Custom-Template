@@ -52,6 +52,10 @@ We make changes to DBP by writing patches, testing, revewiging them and pushing 
 
 text
 
+## Bugs We Identified?
+
+-   list
+
 ## Fixing Bugs
 
 ..........
@@ -63,3 +67,12 @@ text
 ## Following up and responding?
 
     ...what to expect, time estimation,..etc.
+
+## Getting Code pushed into DBP
+
+.........
+
+## More Information:
+
+-   Getting to learn the DBP Codebase - ...............
+    -Guides to tools we used?
