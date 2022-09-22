@@ -72,7 +72,32 @@ text
 
 .........
 
-## More Information:
+# More Information:
 
 -   Getting to learn the DBP Codebase - ...............
     -Guides to tools we used?
+
+# Code Quality
+
+... list of standards for code style, linting,...etc.
+
+# Defintion of Done.
+
+... what' acceptable to be finished code.
+
+# How to Identify A bug
+
+..bug,..bug definition, severity, list of old bugs,...etc.
+
+type of bug (fix, enhancement, ...etc.)
+
+All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+
+## Bug Handling
+
+-   Bug pipeline => .....
+-   Bug Types => .....
+-   Other Bug Metadata => .....
+-   Priority Definitions => .....
+-   Defect Severity => .....
+-   Release Status Flags => .....
