@@ -1,10 +1,10 @@
 ## Getting Set Up To Work On The DBP Codebase!
 
-This page is here to help you work in the DBP codebase, our project is open source so they sky is your limit!
+This page is here to help you work in the DBP codebase, our project is open source so the sky is your limit!
 Starting from working on the DBP or customizing your own version, this is the place to start from.
-So if you’d like to help **DBP community** build the coolest devops app, you’re in the right place.
+So if you’d like to help the **DBP community** build the coolest DevOps app, you’re in the right place.
 
-We make changes to DBP by writing patches, testing, revewiging them and pushing them. Here is a small checklist to help you get started:
+We make changes to DBP by writing patches, testing, reviewing, and pushing them. Here is a small checklist to help you get started:
 
 -   Before you start:
 
@@ -12,10 +12,10 @@ We make changes to DBP by writing patches, testing, revewiging them and pushing 
 
         -   list?
 
-    -   Account needed? (just github or need to register for other services?)
+    -   Account needed? (just GitHub or need to register for other services?)
     -   Any special code review tools to install?
     -   Dependencies to install? (Extensions, ..etc.)
-    -   Speceific OS dependices? (Windows, linux, ..) -c
+    -   Speceific OS dependices? (Windows, Linux, ..) -c
     -
 
 -   Cloning Our Codebase:
@@ -33,7 +33,7 @@ We make changes to DBP by writing patches, testing, revewiging them and pushing 
             -   `....`
         -   To test a change locally
             -   `....`
-        -   To test a change remotly
+        -   To test a change remotely
             -   `...`
         -   To submit a patch
             -   `...`
@@ -83,7 +83,7 @@ text
 
 # Defintion of Done.
 
-... what' acceptable to be finished code.
+... what’s acceptable to be finished code.
 
 # How to Identify A bug
 
@@ -91,7 +91,7 @@ text
 
 type of bug (fix, enhancement, ...etc.)
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+All files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
 ## Bug Handling
 
