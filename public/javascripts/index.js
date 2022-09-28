@@ -25,19 +25,5 @@ const fakePOSTConnect = () => {
 	});
 };
 
-// PUT
-
-const fakePUTConnect = () => {
-	return fetch("http://localhost:3000", {
-		headers: {
-			"Content-Type": "application/json",
-		},
-		method: "PUT",
-		body: JSON.stringify({ test: "PUT" }),
-	}).then((response) => {
-		console.log(response);
-	});
-};
 fakeGETConnect();
 fakePOSTConnect();
-fakePUTConnect();
