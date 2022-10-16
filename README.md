@@ -5,21 +5,20 @@ Starting from working on the DBP or customizing your own version, this is the pl
 So if you’d like to help **DBP community** build the coolest devops app, you’re in the right place.
 
 We make changes to DBP by writing patches, testing, revewiging them and pushing them. Here is a small checklist to help you get started:
-[Mermaid](https://mermaidjs.github.io/)
--   ## Before you start:
-    -   #### What skills do I need?
-        -   list?
-    -   #### Account needed? (just github or need to register for other services?)
-    -   #### Any special code review tools to install?
-    -   #### Dependencies to install? (Extensions, ..etc.)
-    -   #### Speceific OS dependices? (Windows, linux, ..) -c
-    -
 
 
-# More Information:
+ -  ### [Before you start]( LinktoBefore%You%Start.md)
+ -  ### [Project Documentation]( LinktoBefore%You%Start.md)
+ -  ### [Cloning Our Codebase](LinktoCloning%Our%Codebase)
+ -  ### [Contribution](LinktoContribution)
+ -  ### [Code Quality](LinktoCode%Quality)
+ -  ### [How To Handle Files](LinktoHow%To%Handle%Files)
+ -  ### [Diagram?]()
 
--   Getting to learn the DBP Codebase - ...............
-    -Guides to tools we used?
+## More Information:
+
+-  ...............
+   
 
 
 

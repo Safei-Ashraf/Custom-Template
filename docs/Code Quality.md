@@ -1,4 +1,4 @@
-## Code Quality
+# Code Quality
 
 ... list of standards for code style, linting,...etc.
 
